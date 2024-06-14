@@ -1,0 +1,6 @@
+Relaks masaza,45,masaza,2000.0
+Sportska masaza,75,masaza,2500.0
+Francuski manikir,50,manikir,1500.0
+Gel lak,80,manikir,1600.0
+Spa manikir,90,manikir,2000.0
+Spa pedikir,45,pedikir,1600.0
